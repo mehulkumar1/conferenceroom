@@ -1,0 +1,94 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8" />
+
+<title>roombook</title>
+<link rel="stylesheet" href="css/foundation.css" />
+<link rel="stylesheet" href="css/app.css" />
+<link rel="stylesheet" href="css/custome.css" />
+</head>
+<body>
+
+<div class="row">
+<div class="large-12 columns">
+<h1>conference rooms booking</h1>
+</div>
+</div>
+
+<div class="rowone">
+<div class="large-12 columns">
+<h5>Room Search</h5>
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="rowtwo">
+
+<label>Location:*</label>
+<div class=" medium-2 columns">
+<input id="checkbox1" type="checkbox"><label for="checkbox1">All</label></div>
+<div class=" medium-2 columns">
+
+<input id="checkbox2" type="checkbox"><label for="checkbox2">Cuybage Towers</label></div>
+<div class=" medium-2 columns">
+<input id="checkbox3" type="checkbox"><label for="checkbox3">Gandhinagar</label></div>
+<div class=" medium-2 columns">
+<input id="checkbox4" type="checkbox"><label for="checkbox4">Hyderabad</label></div>
+<div class=" medium-4 columns">
+<input id="checkbox5" type="checkbox"><label for="checkbox5">West Avenue</label></div>
+
+
+</div>
+
+
+
+
+<div class="rowthree">
+
+<label>Facilities:*</label>
+<div class=" medium-2 columns">
+<input id="checkbox1" type="checkbox"><label for="checkbox1">Multiple Computers</label></div>
+<div class=" medium-2 columns">
+
+<input id="checkbox2" type="checkbox"><label for="checkbox2">Network Point</label></div>
+<div class=" medium-2 columns">
+<input id="checkbox3" type="checkbox"><label for="checkbox3">Projector</label></div>
+<div class=" medium-2 columns">
+<input id="checkbox4" type="checkbox"><label for="checkbox4">Video Conferensing</label></div>
+<div class=" medium-4 columns">
+<input id="checkbox5" type="checkbox"><label for="checkbox5">White Board</label></div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="lib/angular.min.js"></script>
+<script src="app/controllers.js"></script>
+</body>
+</html>
+
+
+
+
+
+
